@@ -32,7 +32,7 @@ When analyzing the weekly data for the first quarter in 2019, the data showed th
 
 It is clear from the data that while the average fare per ride is significantly less in urban cities, the amount of total fares is significantly greater in urban cities than in suburban or rural cities. This could be due to the larger population of people in urban cities. This could also be due to the lack of automobile ownership in urban cities. Paying for a ride may be more economical than paying for a car payment and the headache of maintaining a car. There also tends to be more space between locations in rural cities which may make rides longer and thus more expensive.
 
-There are far fewer drivers in rural and suburban cities than rural cities which may be another factor in why rides are so expensive in these types of cities. Because there are fewer drivers in rural and suburban cities, causing the fare for rides to increase due to the demand for drivers. Urban cities seem saturated with drivers, causing the demand for drivers to decrease resulting in lower fares per ride.
+There are far fewer drivers in rural and suburban cities than rural cities which may be another factor in why rides are so expensive in these types of cities. There are fewer drivers in rural and suburban cities, causing the fare for rides to increase due to the demand for drivers. Urban cities seem saturated with drivers, causing the demand for drivers to decrease resulting in lower fares per ride.
 
 It would be interesting to dive further into the data to see in which sections of the different cities rides tend to be more popular. This could give greater insight into where customers are located and how to market in different types of cities. 
 
