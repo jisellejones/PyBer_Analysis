@@ -2,7 +2,7 @@
 
 ## Overview
 
-PyBer is an imaginary ride share company. This analysis analyzed the 2019 ride share data to determine the weekly fares in different types of cities (rural, suburban, and urban). The purpose of this analysis was to help PyBer improve business decisions.
+The purpose of this analysis was to help PyBer (an imaginary ride share company) improve business decisions using 2019 ride share data to determine the weekly fares in different types of cities (rural, suburban, and urban). 
 
 ## Resources
 
